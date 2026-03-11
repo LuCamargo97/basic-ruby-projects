@@ -9,6 +9,7 @@ This repository is a collection of Ruby logic projects from [The Odin Project](h
 | [Caesar Cipher](./caesar_cipher) | A tool that encrypts text by shifting characters. | Modular arithmetic, Unicode normalization, Case preservation. |
 | [Sub Strings](./sub_strings) | A method that counts occurrences of dictionary words within a string. | Pattern matching, `scan` method, Hash accumulation. |
 | [Stock Picker](./stock_picker) | An algorithm to find the best days to buy and sell stocks for maximum profit. | $O(n)$ complexity, chronology constraints, Pointer synchronization. |
+| [Bubble Sort](./bubble_sort) | An implementation of the classic sorting algorithm to organize numerical collections. | Array manipulation, Boolean flags, Parallel assignment. |
 
 ## 🛠 Tech Stack
 
