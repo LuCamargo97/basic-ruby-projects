@@ -16,7 +16,7 @@ To manage the synchronization between the best price found and the best profit a
 - **Language:** Ruby 3.1.4
 - **Core Methods:** `each_with_index`, `next`, Parallel Assignment.
 - **Logic Control:** Guard clauses and pointer synchronization.
-- **Concepts:** Linear Time Complexity ($O(n)$).
+- **Data Structures:** Arrays (Linear Collections) and Integer Scalars.
 
 ## 🚀 How to use
 
